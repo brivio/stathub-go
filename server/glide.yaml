@@ -1,0 +1,4 @@
+package: stathub-go/server
+import:
+- package: github.com/likexian/daemon-go
+- package: github.com/likexian/simplejson-go

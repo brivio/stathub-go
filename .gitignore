@@ -2,3 +2,6 @@
 .DS_Store
 stathub
 TODO
+.*
+client/vendor
+server/vendor

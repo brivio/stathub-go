@@ -1,0 +1,8 @@
+hash: 43be6e96b5bc434fed2a5e1431bd1d9db91ee773105b6a11da6a374e5c417ade
+updated: 2017-02-07T10:57:46.919685843+08:00
+imports:
+- name: github.com/likexian/daemon-go
+  version: e3cfdf387dee7ed47a0af2a728bc9b3e04997438
+- name: github.com/likexian/simplejson-go
+  version: ae2469159ffad50dfed9078feae7b49f882e142d
+testImports: []
